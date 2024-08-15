@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 15 jul. 2024, 18:45:26
+    Author     : josel
+*/
+
+.form-cita{
+    width: 70%;
+    margin-top:50px;
+    margin-left: 170px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);   
+    border: 1px ; 
+    padding: 5px;
+}
+.centrar{
+    margin-left: 440px;
+    margin-top: 10px;
+}
+

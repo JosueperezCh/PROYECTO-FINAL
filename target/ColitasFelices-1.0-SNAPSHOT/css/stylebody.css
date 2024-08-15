@@ -1,0 +1,16 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4 jul. 2024, 00:13:23
+    Author     : josel
+*/
+
+.container-body {
+    width:  70%;
+    height: 600px;
+    margin-left:  250px;
+    box-sizing: border-box; /* Asegura que padding y border no afecten el tamaño total */
+     /* Opcional: para visualizar el borde del contenedor */
+}
